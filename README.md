@@ -12,4 +12,6 @@ npm install gitbook-cli -g
 
 gitbook serve
 
+gitbook build //to build everything
+
 ```
