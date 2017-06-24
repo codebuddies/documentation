@@ -4,14 +4,12 @@ Welcome to the CodeBuddies documentation repository. We welcome contributions to
 
 ### Getting Started
 
+
 ```
+npm install gitbook-cli -g
 
 git@github.com:codebuddiesdotorg/documentation.git && cd documentation
 
-npm install gitbook-cli -g
-
 gitbook serve
-
-gitbook build //to build everything
 
 ```
