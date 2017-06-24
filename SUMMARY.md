@@ -1,7 +1,6 @@
 # Summary
 
 
-* [Introduction](README.md)
 * [Welcome](CB_intro.md)
   * [Getting Started](introduction/getting_started.md)
   * [Glossary](introduction/glossary.md)
