@@ -34,10 +34,6 @@ We've discovered that joining a hangout that we pre-schedule in advance (or some
 
 This project operates in full transparency as a member of the [Open Collective](opencollective.com/codebuddies). Please help support our architecture costs by becoming a sponsor or backer. You can help keep this project alive!
 
-### Do you have a community code of conduct?
-
-Yes. See this.
-
-Why did you all work together to build this site?
+### Why did you all work together to build this site?
 
 Our community spends a lot of time helping each other on Slack, but it's hard to schedule study times in advance in a chatroom, and it's also hard to know who else is online possibly working on the same thing at the same time. This website solves those issues.
