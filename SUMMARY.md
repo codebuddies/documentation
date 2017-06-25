@@ -1,21 +1,20 @@
 # Summary
 
-
 * [Welcome](index.md)
-  * [Getting Started](welcome/getting_started.md)
+  * [Where to ask for help](welcome/getting_help.md)
+  * [Non-code ways to contribute](welcome/community.md)
+  
 
-### Contribution
-* [Workflow](contribution/workflow.md)
-* [Code Of Conduct](contribution/code_of_conduct.md)
+### Code Contribution
+* [Quick Steps](contribution/quick_steps.md)
+* [1/ Setting up your development environment](contribution/development_environment.md)
+* [2/ Finding an issue](contribution/issue.md)
+* [3/ Working with branches](contribution/branch.md)
+* [4/ Submitting a pull request](contribution/pull_request.md)
 * [Coding Style Guidelines](contribution/coding_style.md)
 * [Glossary](contribution/glossary.md)
-* [Pull Request](contribution/pull_request.md)
-* [Issue](contribution/issue.md)
-* [Merge Conflict](contribution/merge_conflict.md)
-
-<!-- * [Introduction](introduction/contributing.md)
-  * [FAQ](introduction/faq.md)
-  * [Getting Started](introduction/getting_started.md) -->
+* [Dealing with Merge Conflicts](contribution/merge_conflict.md)
+* [5/ Recognition as a contributor](contribution/recognition.md)
 
 -----
 
@@ -25,16 +24,15 @@
 * [Collections](walkthroughs/collections/index.md)
   * [Learnings](walkthroughs/collections/learnings.md)
 * [Methods](walkthroughs/mongodb_collections.md)
-  * [Learnings](walkthroughs/mongodb_collections.md)
 * [Publications & Subscription](walkthroughs/pub_sub/index.md)
-  * [Learnings](walkthroughs/pub_sub/learnings.md)
 * [Templates](walkthroughs/templates/index.md)
-  * [Learnings](walkthroughs/templates/learnings.md)
 * [Styles](walkthroughs/styles/index.md)
-  * [Learnings](walkthroughs/styles/learnings.md)
 * [Settings](walkthroughs/mongodb_collections.md)
 
+## Other
+* [FAQs](faq/index.md)
+* [Code Of Conduct](contribution/code_of_conduct.md)
 
 -----
 
-* [FAQs](faq/index.md)
+
