@@ -19,7 +19,7 @@
 -----
 
 ## Walkthroughs
-* [File Started](walkthroughs/file_structure/index.md)
+* [File Structure](walkthroughs/file_structure/index.md)
 * [Routes](walkthroughs/routes/index.md)
 * [Collections](walkthroughs/collections/index.md)
   * [Learnings](walkthroughs/collections/learnings.md)
