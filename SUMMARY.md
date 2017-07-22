@@ -22,14 +22,12 @@
 * [File Structure](walkthroughs/file_structure/index.md)
 * [Routes](walkthroughs/routes/index.md)
 * [Collections](walkthroughs/collections/index.md)
-  * [Learnings](walkthroughs/collections/learnings.md)
-  * [Hangouts](walkthroughs/collections/learnings.md)
-  * [Users](walkthroughs/collections/learnings.md)
 * [Methods](walkthroughs/mongodb_collections.md)
 * [Publications & Subscription](walkthroughs/pub_sub/index.md)
 * [Templates](walkthroughs/templates/index.md)
 * [SCSS Styles](walkthroughs/styles/index.md)
-* [Settings](walkthroughs/mongodb_collections.md)
+* [Settings](walkthroughs/settings.md)
+* [Development Tips & Tricks](walkthroughs/tips.md)
 
 ## Other
 * [FAQs](faq/index.md)
