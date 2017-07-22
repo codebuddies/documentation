@@ -12,13 +12,13 @@
 * [3/ Working with branches](contribution/branch.md)
 * [4/ Submitting a pull request](contribution/pull_request.md)
 * [Coding Style Guidelines](contribution/coding_style.md)
-* [Glossary](contribution/glossary.md)
 * [Dealing with Merge Conflicts](contribution/merge_conflict.md)
 * [5/ Recognition as a contributor](contribution/recognition.md)
 
 -----
 
 ## Walkthroughs
+* [Resources for Beginners](walkthroughs/resources.md)
 * [File Structure](walkthroughs/file_structure/index.md)
 * [Routes](walkthroughs/routes/index.md)
 * [Collections](walkthroughs/collections/index.md)
