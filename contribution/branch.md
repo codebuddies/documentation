@@ -15,7 +15,7 @@ You should always be working inside a branch while solving an issue.
 
 Make commits within the branch, and then -- when you're ready, push up the branch:
 
-`git push --set-upstream BRANCHNAME` 
+`git push --set-upstream origin BRANCHNAME` 
 
 #### How to see a list of all existing branches
 Type `git branch -a` to see a list of all available branches.
