@@ -38,4 +38,4 @@ Run `meteor --settings settings-development.json` in your terminal to start up t
 
 * Also note: if you see an error in your terminal asking you to `meteor npm install --save faker`, please run that command!
 
-* When you create a hangout in your localhost:3000, a Slack notification will be sent to the #cb2-test channel. This emulates what happens when you create a hangout on codebuddies.org, where a Slack announcement about the hangout will appear in the #announcements channel.
+* When you create a hangout in your localhost:3000, a Slack notification will be sent to the #codebuddies-ops channel. This emulates what happens when you create a hangout on codebuddies.org, where a Slack announcement about the hangout will appear in the #announcements channel.
