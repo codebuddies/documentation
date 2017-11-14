@@ -11,6 +11,7 @@ CodeBuddies is a community of 1400+ code learners who help each other through co
 
 - [CodeBuddies.org](http://codebuddies.org)
 - [Documentation](http://docs.codebuddies.org)
+- [Onboarding PPT for New Contributors](https://docs.google.com/presentation/d/1tlU9hWUsP44W6I0qEre0CgqrjLUaK1Vwr-hGq7phn0Q/edit?usp=drive_web)
 
 ##### Community
 - [Get your Slack invite](http://codebuddiesmeet.herokuapp.com)
