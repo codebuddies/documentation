@@ -29,4 +29,4 @@ Also, Codeship notifications have been added to our Slack; you can see build sta
 Note: Right now only a few core contributors on the dev team have access to Codeship's dashboard. If you want to take a look at it, please let us know about your interest on Slack.
 
 ---
-_Author:_ @distalx
+_Contributors:_ @distalx, @linda
