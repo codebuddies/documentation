@@ -27,7 +27,9 @@
 * [Templates](walkthroughs/templates/index.md)
 * [SCSS Styles](walkthroughs/styles/index.md)
 * [Settings](walkthroughs/settings.md)
+* [Deployment](walkthroughs/deployment.md)
 * [Development Tips & Tricks](walkthroughs/tips.md)
+
 
 ## Other
 * [FAQs](faq/index.md)
