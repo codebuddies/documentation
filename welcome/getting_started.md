@@ -30,12 +30,13 @@ On Windows, you should run the official installer [here](https://www.meteor.com/
 
 You might get errors telling you to run --save to install other packages; please run them:
 
+```
 meteor npm install --save babel-runtime
 meteor npm install --save faker twitter mailchimp-api body-parser md5
 meteor npm install --save jquery lodash uhr quill-render html-to-text
 meteor npm install --save bcrypt
 meteor npm install 
-
+```
 
 
 
