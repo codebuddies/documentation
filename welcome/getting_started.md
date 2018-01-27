@@ -17,7 +17,7 @@ On Windows, you should run the official installer [here](https://www.meteor.com/
   (Replace the URL with your own repository URL path.)
 
 5. Run `cd codebuddies`. Then, set up this repository as an upstream branch using:
-  * `git remote add upstream https://github.com/codebuddiesdotorg/cb-v2-scratch.git`
+  * `git remote add upstream https://github.com/codebuddiesdotorg/codebuddies.git`
 
   Now, whenever you want to sync with the owner repository. Do the following:
   * `git fetch upstream`
@@ -26,7 +26,16 @@ On Windows, you should run the official installer [here](https://www.meteor.com/
   
   Note: You can type `git remote -v` to check which repositories your `origin` and `upstream` are pointing to.
 
-6. Type `meteor npm install` to install the initial meteor packages (you have to do this once!).
+6. Type `meteor npm install` to install the initial meteor packages (you have to do this now, not later when you start up the app!).
+
+You might get errors telling you to run --save to install other packages; please run them:
+
+meteor npm install --save babel-runtime
+meteor npm install --save faker twitter mailchimp-api body-parser md5
+meteor npm install --save jquery lodash uhr quill-render html-to-text
+meteor npm install --save bcrypt
+meteor npm install 
+
 
 
 
