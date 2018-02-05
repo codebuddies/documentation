@@ -12,12 +12,12 @@ On Windows, you should run the official installer [here](https://www.meteor.com/
   
 4. Fork this repository! Once you have a copy of this repo on your own account, clone this repo to your computer by typing in something like:
 
-  `git clone https://github.com/codebuddiesdotorg/codebuddies.git`
+  `git clone https://github.com/codebuddies/codebuddies.git`
 
   (Replace the URL with your own repository URL path.)
 
 5. Run `cd codebuddies`. Then, set up this repository as an upstream branch using:
-  * `git remote add upstream https://github.com/codebuddiesdotorg/cb-v2-scratch.git`
+  * `git remote add upstream https://github.com/codebuddies/cb-v2-scratch.git`
 
   Now, whenever you want to sync with the owner repository. Do the following:
   * `git fetch upstream`

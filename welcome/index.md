@@ -23,9 +23,9 @@ CodeBuddies is a community of 1400+ code learners who help each other through co
 - [Open Collective](https://opencollective.com/codebuddies)
 
 ##### Github
-- [Github - Documentation](https://github.com/codebuddiesdotorg/documentation)
-- [Github - Crowdsourced Resources](https://github.com/codebuddiesdotorg/crowdsourced-resources)
+- [Github - Documentation](https://github.com/codebuddies/documentation)
+- [Github - Crowdsourced Resources](https://github.com/codebuddies/crowdsourced-resources)
 
 ##### Community Projects
-- [Github - Main Project](https://github.com/codebuddiesdotorg/codebuddies)
-- [Github - Text Adventures](https://github.com/codebuddiesdotorg/text_adventure)
+- [Github - Main Project](https://github.com/codebuddies/codebuddies)
+- [Github - Text Adventures](https://github.com/codebuddies/text_adventure)
