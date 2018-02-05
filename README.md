@@ -8,7 +8,7 @@ Welcome to the CodeBuddies documentation repository. We welcome contributions to
 ```
 npm install gitbook-cli -g
 
-git clone git@github.com:codebuddiesdotorg/documentation.git && cd documentation
+git clone git@github.com:codebuddies/documentation.git && cd documentation
 
 gitbook serve
 
