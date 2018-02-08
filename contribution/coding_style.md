@@ -1,8 +1,8 @@
 #### Coding Style Guide
-# Standard JS - The Rules
+##### Standard JS - The Rules
 
 
-* **2 spaces** - for identation
+* **2 spaces** - for indentation
 
 * **Single quotes for strings** - except to avoid
 escaping
@@ -14,7 +14,7 @@ escaping
 [ Really!](https://www.youtube.com/watch?v=gsfbh17Ax9I)
 
 * **Never start a line with `(,[,` or `` ` ``!**
-  * This is the **only** gotcha with omitting semicolons - *automatically checked for you!*
+  * This is the **only** gotcha with omitting semicolons - * they are automatically checked for you!*
   * [More details](https://standardjs.com/rules-en.html#semicolons)
 
 * **Space after keywords:** `if (condition) {...}`
