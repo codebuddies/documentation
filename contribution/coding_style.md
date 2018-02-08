@@ -1,5 +1,5 @@
-#### Coding Style Guide
-##### Standard JS - The Rules
+### Coding Style Guide
+#### Standard JS - The Rules
 
 
 * **2 spaces** - for indentation
