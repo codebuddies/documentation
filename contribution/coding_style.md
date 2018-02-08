@@ -27,9 +27,8 @@ escaping
 * **Always handle** the `node.js err` function parameter
 
 * **Always prefix** browser globals with `window`
- * Except for `document` and `navigator`, which are okay.
-   * This prevents accidental use of poorly-named browser globals like `open, length, event,` and
-   `name`.
+  * Except for `document` and `navigator`, which are okay.
+    * This prevents accidental use of poorly-named browser globals like `open, length, event,` and `name`.
 
 * **And** [more goodness](https://standardjs.com/rules-en.html#javascript-standard-style) – *give `standard` a try today!*
 
