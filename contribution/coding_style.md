@@ -51,4 +51,4 @@ To get the full experience, you should also use the `es5-shim` package which is 
 
 ##### Follow a JavaScript style guide
 
-We recommend choosing and sticking to a JavaScript [style guide](styleGuide) and enforcing it with tools.
+We recommend choosing and sticking to a JavaScript [style guide](#styleGuide) and enforcing it with tools.
