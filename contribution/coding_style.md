@@ -19,13 +19,11 @@ escaping
 
 * **Space after keywords:**
 <span style="font-family: Courier">
-<br>
 &nbsp;&nbsp;if (condition) {...}
 </span>
 
 * **Space after function name:**
 <span style="font-family: Courier">
-<br>
 &nbsp;&nbsp;function name (arg) { ... }
 </span>
 
