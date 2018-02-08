@@ -17,15 +17,9 @@ escaping
   * This is the **only** gotcha with omitting semicolons - *automatically checked for you!*
   * [More details](https://standardjs.com/rules-en.html#semicolons)
 
-* **Space after keywords:**
-<span style="font-family: Courier">
-&nbsp;&nbsp;if (condition) {...}
-</span>
+* **Space after keywords:** <span style="font-family: Courier">&nbsp;&nbsp;if (condition) {...}</span>
 
-* **Space after function name:**
-<span style="font-family: Courier">
-&nbsp;&nbsp;function name (arg) { ... }
-</span>
+* **Space after function name:** <span style="font-family: Courier">&nbsp;&nbsp;function name (arg) { ... }</span>
 
 * **Always use** <span style="font-family: Courier">===</span> instead of <span style="font-family: Courier">==</span>
  * But <span style="font-family: Courier">obj == null</span> is allowed to check  <span style="font-family: Courier">null || undefined</span>.
