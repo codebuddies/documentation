@@ -1,1 +1,0 @@
-We are on a [GNU General Public License v3.0](https://github.com/codebuddies/codebuddies/blob/staging/LICENSE) license.

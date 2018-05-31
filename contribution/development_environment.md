@@ -1,9 +1,9 @@
 #### Setting Up Your Development Environment
 ----
- 
-1. Install Meteor. On a mac, you should use this command: 
 
-   `curl "https://install.meteor.com/?release=1.4.4.2" | sh`
+1. Install Meteor. On a mac, you should use this command:
+
+   `curl "https://install.meteor.com/?release=1.6.1.1" | sh`
 
 On Windows, you should run the official installer [here](https://www.meteor.com/install). If you're unsure whether you already have meteor installed, type `meteor --version` in your command line to check. You should see that you have meteor version 1.3.2.4.
 
@@ -20,7 +20,7 @@ Now, whenever you want to sync with the owner repository, you can do the followi
   * `git fetch upstream`
   * `git checkout staging`
   * `git merge upstream/staging`
-  
+
   Note: You can type `git remote -v` to check which repositories your `origin` and `upstream` are pointing to.
 
 4. Type `meteor npm install` to install the initial meteor packages. You have to do this once!
