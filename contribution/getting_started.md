@@ -1,15 +1,15 @@
 #### Setting Up Your Development Environment
 ----
- 
-2. Install Meteor! On mac, you should use this command: 
 
-   `curl "https://install.meteor.com/?release=1.3.2.4" | sh`
+2. Install Meteor! On mac, you should use this command:
+
+   `curl "https://install.meteor.com/?release=1.6.1.1" | sh`
 
 On Windows, you should run the official installer [here](https://www.meteor.com/install). If you're unsure whether you already have meteor installed, type `meteor --version` in your command line to check. You should see that you have meteor version 1.3.2.4.
 
 3. Please star this repository! We need to reach 100 stars so that we can apply to the [Open Collective](https://opencollective.com/opensource/apply).
   [Edit - We're already there! But still star this repo, so others can hear about what we're doing!]
-  
+
 4. Fork this repository! Once you have a copy of this repo on your own account, clone this repo to your computer by typing in something like:
 
   `git clone https://github.com/codebuddies/codebuddies.git`
@@ -23,7 +23,7 @@ On Windows, you should run the official installer [here](https://www.meteor.com/
   * `git fetch upstream`
   * `git checkout staging`
   * `git merge upstream/staging`
-  
+
   Note: You can type `git remote -v` to check which repositories your `origin` and `upstream` are pointing to.
 
 6. Type `meteor npm install` to install the initial meteor packages (you have to do this once!).
