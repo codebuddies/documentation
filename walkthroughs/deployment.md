@@ -20,9 +20,11 @@ Once we merge that branch to staging, the code is deployed by Codeship, triggeri
 
 After a couple of PR merges to staging, we'll decide to push out a release. To push out the release, we'll merge the staging branch into the master branch and Codeship will again trigger the initiate.sh script which will deploy the new build to the DO droplet.
 
-On the DO droplet, we have two apps running: cb-stage and cb-prod. Codeship generates new bundlers for each release and will swap them with the old one. 
+On the DO droplet, we have two apps running: cb-stage and cb-prod. Codeship generates new bundlers for each release and will swap them with the old one.
 
 At this point we do have a two-pipeline setup: one on master and one on the staging branch. I think that's sufficient enough for our use case.
+
+![Deployment workflow](/assets/CB_deployment_workflow_diagram.png)
 
 Also, Codeship notifications have been added to our Slack; you can see build statuses for each PR in the #codebuddies-ops channel.
 
