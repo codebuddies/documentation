@@ -34,10 +34,10 @@ Run `meteor --settings settings-development.json` in your terminal to start up t
 
 #### (OPTIONAL) How to log in as an admin on localhost:3000
 
-1. add your email and username to ```settings-development.json```.
-2. ```meteor reset && meteor --settings settings-development.json```.
-3. you will receive your password in your email .
-4. admin login ```http://localhost:3000/admin```.
+1. Add your email and username to ```settings-development.json```, for the `root_email` and `root_username` keys.
+2. ```meteor reset && meteor --settings settings-development.json``` to reset your local database and restart the app.
+3. You will receive your password in your email. Note: please check spam filters if you don't see it! Or ask on the #cb-code channel on Slack for a new Sparkpost API key.
+4. Go to ```http://localhost:3000/admin``` to log in.
 
 Note: When you create a hangout in localhost:3000, a Slack notification will be sent to the #codebuddies-ops channel. This emulates what happens when you create a hangout on codebuddies.org, where a Slack announcement about the hangout will appear in the #general channel.
 
