@@ -11,21 +11,19 @@
   - Click on  "Fork" near the upper right.
 
 4. Once you have a copy of this repo on your own account, clone this repo to your computer by typing in something like:
-
-  `git clone https://github.com/[Your URL Path here]/codebuddies.git`
-
-  (Replace the URL with your own repository URL path.)
-  *Note: You can also get the above link to clone the repo by going to the github page for your fork of the repo on your account and clinking "Clone or download."*
+   `git clone https://github.com/[Your URL Path here]/codebuddies.git`
+  - Replace the URL with your own repository URL path.
+  - You can also get the above link to clone the repo by going to the github page for your fork of the repo and clinking "Clone or download."
 
 5. Type `cd codebuddies` in your terminal. Then, set up this repository as an upstream branch by typing:
-  * `git remote add upstream https://github.com/codebuddies/codebuddies.git`
+  `git remote add upstream https://github.com/codebuddies/codebuddies.git`
 
 6. Type `meteor npm install` to install the initial meteor packages. You have to do this once!
 
 Now, whenever you want to sync with the owner repository, you can do the following:
-  * `git fetch upstream`
-  * `git checkout staging`
-  * `git merge upstream/staging`
+  - `git fetch upstream`
+  - `git checkout staging`
+  - `git merge upstream/staging`
 
   Note: You can type `git remote -v` to check which repositories your `origin` and `upstream` are pointing to.
 
