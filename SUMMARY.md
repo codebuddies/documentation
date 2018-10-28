@@ -13,7 +13,8 @@
 * [4/ Submitting a pull request](contribution/pull_request.md)
 * [Coding Style Guidelines](contribution/coding_style.md)
 * [Dealing with Merge Conflicts](contribution/merge_conflict.md)
-* [5/ Recognition as a contributor](contribution/recognition.md)
+* [5/ Reviewing Pull Requests](contribution/review.md)
+* [6/ Recognition as a contributor](contribution/recognition.md)
 
 -----
 
