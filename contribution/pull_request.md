@@ -11,8 +11,8 @@ Once you're satisfied with the commits you've made in your branch and have pushe
 ####Tips for Creating the Perfect Pull Request
 *The following is excerpted from Keavy's article on the Github blog, ["How to write the perfect pull request"](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)*:
 - Include the purpose of this Pull Request. For example: This is a spike to explore… This simplifies the display of… This fixes handling of…
-<br>
-- Consider providing an overview of why the work is taking place (with any relevant links); don’t assume familiarity with the history.
+
+* Consider providing an overview of why the work is taking place (with any relevant links); don’t assume familiarity with the history.
 
 - Remember that anyone in the company could be reading this Pull Request, so the content and tone may inform people other than those taking part, now or later.
 
