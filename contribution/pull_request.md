@@ -23,3 +23,5 @@ Once you're satisfied with the commits you've made in your branch and have pushe
 - @mention individuals that you specifically want to involve in the discussion, and mention why. (“/cc @jesseplusplus for clarification on this logic”).
 
 - @mention teams that you want to involve in the discussion, and mention why. (“/cc @github/security, any concerns with this approach?”)
+
+Here are some tips on [how to create the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request).
