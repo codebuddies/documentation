@@ -13,7 +13,7 @@ On CodeBuddies.org:
 * Start a teaching hangout to teach something you know
 * Start a collaborative hangout to pair program or work through a tutorial
 
-Joining an organizer team
+Joining an organizing team
 * Join the #podcast channel if you're interested in producing podcast episodes (cross-posted on YouTube) as an interviewer or video editor
 * Join the #cb-newsletter channel if you're interested in helping out with the newsletter or Medium publication
 * Join #cb-sponsors-outreach if you're interested in being on the team that reaches out to sponsors
