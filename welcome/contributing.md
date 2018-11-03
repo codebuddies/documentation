@@ -44,7 +44,7 @@ Then, create a new branch by typing `git checkout -b BRANCHNAME`. Replace BRANCH
 
 9. If you have any questions about the issue you're looking at, you can leave a comment in there, or ask in the [#codebuddies-meta Slack channel](https://codebuddies.slack.com/messages/codebuddies-meta). Read below for more instructions about how to work with branches.
 10. Type `git branch -a` to see a list of all the branches besides `staging`, the default branch you're in. Note that if you want to switch to an already-created branch, you would type `git checkout BRANCHNAME`. You can read more about how to create a new branch to work on an issue below.
-11. Once you finish making your changes, commit and push your changes.
+11. Once you finish making your changes, add your changes by typing `git add` and commit them using`git cz`.
 12. Submit your Pull Request! See some tips on [how to create the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request).
 13. (Optional) Add yourself as a contributor, if you haven't done so already. Steps are listed [below](#how-do-i-add-myself-as-a-contributor).
 
@@ -80,7 +80,8 @@ All right. After we've created our branch, the next step is to push our new bran
 
   `git push origin NAME_OF_NEW_BRANCH`
 
-Now we can make commits to our branch (`git commit -am "commit message"`) and `git pull` to get other people's changes to the branch, and `git push` our own commits to the branch.
+Now we can add changed files to our branch using `git add FILENAME` and make commits and push them to the branch using `git cz`.
+Use `git pull` to get other people's changes to the branch.
 
 Finally, when you're finished working on the fix or feature in your branch, you'll need to submit a pull request!
 
@@ -132,7 +133,7 @@ In summary, the steps are:
 3. If you're unsure about a merge conflict, or would like to pair to solve it with someone else, ask in the #codebuddies-meta channel on Slack.
 4. Save the file after you've cleared up the conflict.
 5. `git add [filename]`.
-6. `git commit -m "message" [filename]`.
+6. `git cz`.
 7. You're done! Now you can continue to `git push` and `git pull` and `git merge staging` while you're inside your branch.
 
 ### How do I start up the app locally and log in as an admin?
