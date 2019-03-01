@@ -46,6 +46,7 @@ The majority of issue labels are given a prefix to help with categorisation. The
 * `[feature] community` - issues that relate to community management
 * `[feature] groups` - issues that relate to the study-groups functionality
 * `[feature] home-page` - issues that relate to the landing page
+* `[feature] learnings` - issues that relate to the learnings functionality
 
 ### Technology
 
