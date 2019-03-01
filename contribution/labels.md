@@ -44,7 +44,7 @@ The majority of issue labels are given a prefix to help with categorisation. The
 * `[feature] slack` - issues that relate to the use of Slack
 * `[feature] forum` - issues that relate to the forum
 * `[feature] community` - issues that relate to community management
-* `[feature] groups` - issues that relate to the /study-groups functionality
+* `[feature] groups` - issues that relate to the study-groups functionality
 * `[feature] home-page` - issues that relate to the landing page
 
 ### Technology
@@ -58,6 +58,6 @@ The majority of issue labels are given a prefix to help with categorisation. The
 
 ### Community
 
-* `help-wanted` - we'd really like some extra help with this issue
-* `good-first-issue` - this issue is good for a first-time contributor, help and support provided
+* `help wanted` - we'd really like some extra help with this issue
+* `good first issue` - this issue is good for a first-time contributor, help and support provided
 * `claimed` - an individual has claimed ownership of this issue
