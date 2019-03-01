@@ -5,7 +5,7 @@
 Look at some of the [open issues](https://github.com/codebuddies/cb-v2-scratch/issues) and identify one that sparks your interest.
 - If you are looking for issues that are good for beginners, check out the issues labeled ["good-for-beginners"](https://github.com/codebuddies/codebuddies/issues?q=is%3Aissue+is%3Aopen+label%3Agood-for-beginners) or ["good first issue"](https://github.com/codebuddies/codebuddies/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
-For an explanation of issue lables see: [Issue Labels](/contribution/labels).
+For an explanation of issue lables see: [Issue Labels](contribution/labels.md).
 
 ## 2. Claim that issue!
 If you want to work on the issue, leave a comment on it saying that you're working on it.

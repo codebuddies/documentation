@@ -11,10 +11,10 @@
 * [2/ Finding an Issue](contribution/issue.md)
 * [3/ Working with Branches](contribution/branch.md)
 * [4/ Submitting a Pull Request](contribution/pull_request.md)
-* [Coding Style Guidelines](contribution/coding_style.md)
-* [Dealing with Merge Conflicts](contribution/merge_conflict.md)
-* [5/ Reviewing Pull Requests](contribution/review.md)
-* [6/ Recognition as a Contributor](contribution/recognition.md)
+* [5/ Coding Style Guidelines](contribution/coding_style.md)
+* [6/ Dealing with Merge Conflicts](contribution/merge_conflict.md)
+* [7/ Reviewing Pull Requests](contribution/review.md)
+* [8/ Recognition as a Contributor](contribution/recognition.md)
 
 -----
 
