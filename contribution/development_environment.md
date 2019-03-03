@@ -3,9 +3,9 @@
 
 1. Install Meteor. On a mac, you should use this command:
 
-   `curl "https://install.meteor.com/?release=1.6.1.1" | sh`
+   `curl "https://install.meteor.com/?release=1.7.0.3" | sh`
    - On Windows, you should run the official installer [here](https://www.meteor.com/install).
-   - If you're unsure whether you already have meteor installed, type `meteor --version` in your command line to check. You should see that you have meteor version 1.3.2.4.
+   - If you're unsure whether you already have meteor installed, type `meteor --version` in your command line to check. You should see that you have meteor version 1.7.0.3.
 
 2. Go to [https://github.com/codebuddies/codebuddies](https://github.com/codebuddies/codebuddies). Fork this repository!
   - Click on  "Fork" near the upper right.
