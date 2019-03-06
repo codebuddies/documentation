@@ -11,5 +11,3 @@
 8. Submit a pull request to add yourself as a contributor to both the README.md and our About page.  
 
 Please follow the next chapters for more detailed instructions. 
-
-Check out our [Onboarding PPT for New Contributors](https://docs.google.com/presentation/d/1tlU9hWUsP44W6I0qEre0CgqrjLUaK1Vwr-hGq7phn0Q/edit?usp=drive_web) for a quicker overview!
