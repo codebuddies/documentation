@@ -4,11 +4,12 @@
   * [Where to ask for help](welcome/getting_help.md)
   * [Non-code ways to contribute](welcome/community.md)
   
+## Code Contribution
 
-### Code Contribution
 * [Quick Steps](contribution/quick_steps.md)
 * [1/ Setting up Your Development Environment](contribution/development_environment.md)
 * [2/ Finding an Issue](contribution/issue.md)
+  * [Issue Labels](contribution/labels.md)
 * [3/ Working with Branches](contribution/branch.md)
 * [4/ Submitting a Pull Request](contribution/pull_request.md)
 * [5/ Coding Style Guidelines](contribution/coding_style.md)
@@ -19,6 +20,7 @@
 -----
 
 ## Walkthroughs
+
 * [Resources for Beginners](walkthroughs/resources.md)
 * [File Structure](walkthroughs/file_structure/index.md)
 * [Routes](walkthroughs/routes/index.md)
@@ -31,11 +33,9 @@
 * [Deployment](walkthroughs/deployment.md)
 * [Development Tips & Tricks](walkthroughs/tips.md)
 
-
 ## Other
+
 * [FAQs](faq/index.md)
 * [Code Of Conduct](contribution/code_of_conduct.md)
 
 -----
-
-
