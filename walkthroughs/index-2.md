@@ -1,11 +1,10 @@
-### MongoDB Collections
-----
+# Collections
 
-[comment]: <> (List of Collections)
+## MongoDB Collections
 
 We define all new collections we've created in `lib/collections.js`.
 
-```
+```text
 Learnings = new Mongo.Collection("learnings");
 Hangouts = new Mongo.Collection("hangouts");
 Notifications = new Mongo.Collection('notifications');
@@ -15,9 +14,11 @@ ArchivedUsers = new Mongo.Collection("archived-users");
 Migrations = new Mongo.Collection("migrations");
 ```
 
-### Users
-The `users` collection is implicitly given to us by Meteor. Here's an example user: 
-```
+## Users
+
+The `users` collection is implicitly given to us by Meteor. Here's an example user:
+
+```text
 {
   "_id": "8iT63HQuAkq4gdP2K",
   "roles": {
@@ -73,8 +74,9 @@ The `users` collection is implicitly given to us by Meteor. Here's an example us
 }
 ```
 
-### Learnings
-```
+## Learnings
+
+```text
 {
   "_id": "CqMJRSX7ExauB9i2u",
   "title": "Learned how to exit vim!\n",
@@ -86,8 +88,9 @@ The `users` collection is implicitly given to us by Meteor. Here's an example us
 }
 ```
 
-### Hangouts
-```
+## Hangouts
+
+```text
 {
   "_id": "MRmCDion3e9qCHf3Y",
   "topic": "\"Real Python\" Chapters on Web Interaction & Scientific Computing/Graphing",
@@ -121,9 +124,9 @@ The `users` collection is implicitly given to us by Meteor. Here's an example us
 }
 ```
 
+## RSVPnotifications
 
-### RSVPnotifications
-```
+```text
 {
   "_id": "mdYr7ucuihB7K4ybe",
   "hangoutId": "BSJyidFdy4k3H7Xfw",

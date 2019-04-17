@@ -17,7 +17,7 @@ The majority of issue labels are given a prefix to help with categorisation. The
 ### Type
 
 * `[type] bug` - something isn't working the way you'd expect or you are unable to accomplish a task
-* `[type] enhancement` - a small improvement (most likely UI), not large enough to be considered a "feature"
+* `[type] enhancement` - a small improvement \(most likely UI\), not large enough to be considered a "feature"
 * `[type] feature` - a new feature or significant change to site functionality
 
 ### State
@@ -63,3 +63,4 @@ The majority of issue labels are given a prefix to help with categorisation. The
 * `help wanted` - we'd really like some extra help with this issue
 * `good first issue` - this issue is good for a first-time contributor, help and support provided
 * `claimed` - an individual has claimed ownership of this issue
+

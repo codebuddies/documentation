@@ -1,20 +1,20 @@
-#### Deployment
+# Deployment
 
 Our deployment recipe contains the following ingredients:
-- DigitalOcean droplet
-- PhusionPassenger (app-server)
-- Nginx (webserver)
-- Codeship (Shipping)
-- Let's Encrypt for SSL
-- MongoDB Atlas
-- Github (source code)
 
-This is our code shipping workflow:
-Github -> Codeship -> DigitalOcean
+* DigitalOcean droplet
+* PhusionPassenger \(app-server\)
+* Nginx \(webserver\)
+* Codeship \(Shipping\)
+* Let's Encrypt for SSL
+* MongoDB Atlas
+* Github \(source code\)
+
+This is our code shipping workflow: Github -&gt; Codeship -&gt; DigitalOcean
 
 We have a Codeship hook attached to our Github repo, and Codeship has write access to our droplet.
 
-When someone creates a PR or pushes any code, it'll be tested against the staging branch. (We do have pipelines but we don't have any tests. It is a work in progress.)
+When someone creates a PR or pushes any code, it'll be tested against the staging branch. \(We do have pipelines but we don't have any tests. It is a work in progress.\)
 
 Once we merge that branch to staging, the code is deployed by Codeship, triggering the initiate.sh script located in the .deploy directory in our droplet.
 
@@ -24,11 +24,11 @@ On the DO droplet, we have two apps running: cb-stage and cb-prod. Codeship gene
 
 At this point we do have a two-pipeline setup: one on master and one on the staging branch. I think that's sufficient enough for our use case.
 
-![Deployment workflow](/assets/CB_deployment_workflow_diagram.png)
+![Deployment workflow](../.gitbook/assets/cb_deployment_workflow_diagram.png)
 
-Also, Codeship notifications have been added to our Slack; you can see build statuses for each PR in the #codebuddies-ops channel.
+Also, Codeship notifications have been added to our Slack; you can see build statuses for each PR in the \#codebuddies-ops channel.
 
 Note: Right now only a few core contributors on the dev team have access to Codeship's dashboard. If you want to take a look at it, please let us know about your interest on Slack.
 
----
 _Contributors:_ @distalx, @linda
+

@@ -1,40 +1,34 @@
-# Introduction
-
-
-
-## CodeBuddies Documentation
+# Welcome
 
 Welcome to the CodeBuddies documentation repository. We welcome contributions to help improve these docs!
 
-#### Learn and chat about code!
+## Learn and chat about code!
 
-CodeBuddies is a community of 4000+ code learners who help each other through conversations on Slack and peer-to-peer-organized remote hangouts on our open-sourced community-built site.
+CodeBuddies is a community of 1400+ code learners who help each other through conversations on Slack and peer-to-peer-organized remote hangouts on our open-sourced community-built site.
 
-#### Quick Links
+## Quick Links
 
 * [CodeBuddies.org](http://codebuddies.org)
 * [Documentation](http://docs.codebuddies.org)
 
-**Community**
+### Community
 
 * [Get your Slack invite](http://codebuddiesmeet.herokuapp.com)
 * [Slack](http://codebuddies.slack.com)
-* [Forum \(NEW\)](https://forum.codebuddies.org)
 * [Twitter](https://twitter.com/codebuddiesmeet)
 * [Facebook](https://www.facebook.com/groups/TOPSTUDYGROUP/)
 
-**Funding & Sponsors**
+### Funding & Sponsors
 
 * [Open Collective](https://opencollective.com/codebuddies)
 
-**Github**
+### Github
 
 * [Github - Documentation](https://github.com/codebuddies/documentation)
 * [Github - Crowdsourced Resources](https://github.com/codebuddies/crowdsourced-resources)
 
-**Community Projects**
+### Community Projects
 
 * [Github - Main Project](https://github.com/codebuddies/codebuddies)
 * [Github - Text Adventures](https://github.com/codebuddies/text_adventure)
-* [Github - Greetbot \(Slack bot\)](https://github.com/codebuddies/greetbot)
 
