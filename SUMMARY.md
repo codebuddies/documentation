@@ -1,6 +1,6 @@
 # Summary
 
-* [Welcome](index.md)
+* [Welcome](contribution/index.md)
   * [Where to ask for help](welcome/getting_help.md)
   * [Non-code ways to contribute](welcome/community.md)
   
